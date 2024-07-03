@@ -1,5 +1,7 @@
 David Baker's Talk:
    The most interesting challenge to me is the expansion of the genetic code. There is so much interesting 
-    chemistry that we aren't able to reliably engineer into proteins yet. I would love to work on expanding that 
-    capability
+    chemistry that we aren't able to reliably engineer into proteins yet. I would love to work on expanding     that capability. 
 
+Alpha Fold Vido:
+   I would like to learn more about what kinds of data are the AI models training on as well as what       features
+the models are picking up on to predict the protein sequence. 
